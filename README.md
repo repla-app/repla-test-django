@@ -1,3 +1,13 @@
 # Repla Test Django
 
-Run with `python3 manage.py runserver`.
+## Creation
+
+Created using:
+
+	django-admin startproject mysite
+
+## Running
+
+Run with:
+
+	python3 manage.py runserver
