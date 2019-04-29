@@ -4,7 +4,7 @@
 
 Created using:
 
-	django-admin startproject mysite
+	django-admin startproject repla_test_django
 
 ## Running
 
