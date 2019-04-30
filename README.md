@@ -2,7 +2,7 @@
 
 ## Creation
 
-Created using:
+Created with:
 
 	django-admin startproject repla_test_django
 
